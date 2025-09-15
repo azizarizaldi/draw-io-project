@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.1" pages="2">
   <diagram id="NxdzmMpcXI_VDIWHWkso" name="Page-2">
-    <mxGraphModel dx="646" dy="1453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="447" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s9AuOl50o36BliXBfOoo-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Administrator&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="50" y="-790" width="180" height="820" as="geometry" />
+          <mxGeometry x="50" y="-790" width="180" height="890" as="geometry" />
         </mxCell>
         <mxCell id="s9AuOl50o36BliXBfOoo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="s9AuOl50o36BliXBfOoo-1" source="s9AuOl50o36BliXBfOoo-3" target="s9AuOl50o36BliXBfOoo-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="30" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Aplikasi&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-790" width="180" height="840" as="geometry" />
+          <mxGeometry x="230" y="-790" width="180" height="890" as="geometry" />
         </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wYPSwRdBEtYzgv2hm-oz-35" source="wYPSwRdBEtYzgv2hm-oz-37" target="wYPSwRdBEtYzgv2hm-oz-38">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="30" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Admin Sekolah&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-790" width="180" height="840" as="geometry" />
+          <mxGeometry x="410" y="-790" width="180" height="890" as="geometry" />
         </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wYPSwRdBEtYzgv2hm-oz-40" source="wYPSwRdBEtYzgv2hm-oz-42" target="wYPSwRdBEtYzgv2hm-oz-43">
           <mxGeometry relative="1" as="geometry" />
@@ -82,14 +82,17 @@
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-91" value="&lt;font size=&quot;1&quot;&gt;Melakukan Proses Identifikasi minat bakat menggunakan &lt;i&gt;K-MEANS CLUSTERING&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-40">
           <mxGeometry x="30" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wYPSwRdBEtYzgv2hm-oz-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wYPSwRdBEtYzgv2hm-oz-40" source="wYPSwRdBEtYzgv2hm-oz-93" target="wYPSwRdBEtYzgv2hm-oz-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-93" value="&lt;font size=&quot;1&quot;&gt;Menyimpan Hasil Tes &lt;i&gt;RIASEC&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-40">
           <mxGeometry x="30" y="730" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wYPSwRdBEtYzgv2hm-oz-95" value="&lt;font size=&quot;1&quot;&gt;Menyimpan Hasil Tes &lt;i&gt;RIASEC&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-40">
+        <mxCell id="wYPSwRdBEtYzgv2hm-oz-95" value="&lt;font size=&quot;1&quot;&gt;Menampilkan Hasil Tes &lt;i&gt;RIASEC&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-40">
           <mxGeometry x="30" y="780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Siswa&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-790" width="180" height="840" as="geometry" />
+          <mxGeometry x="590" y="-790" width="180" height="890" as="geometry" />
         </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wYPSwRdBEtYzgv2hm-oz-45" source="wYPSwRdBEtYzgv2hm-oz-47" target="wYPSwRdBEtYzgv2hm-oz-48">
           <mxGeometry relative="1" as="geometry" />
@@ -106,20 +109,25 @@
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-79" value="&lt;font size=&quot;1&quot;&gt;Menyimpan Jawaban Tes &lt;i&gt;RIASEC&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-45">
           <mxGeometry x="30" y="590" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wYPSwRdBEtYzgv2hm-oz-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Siswa&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-790" width="180" height="840" as="geometry" />
+        <mxCell id="wYPSwRdBEtYzgv2hm-oz-97" value="&lt;font size=&quot;1&quot;&gt;Melihat dan Mengunduh Hasil Tes &lt;i&gt;RIASEC&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-45">
+          <mxGeometry x="30" y="780" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wYPSwRdBEtYzgv2hm-oz-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wYPSwRdBEtYzgv2hm-oz-50" source="wYPSwRdBEtYzgv2hm-oz-52" target="wYPSwRdBEtYzgv2hm-oz-53">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wYPSwRdBEtYzgv2hm-oz-50" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Guru BK&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-790" width="180" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="wYPSwRdBEtYzgv2hm-oz-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wYPSwRdBEtYzgv2hm-oz-50" source="wYPSwRdBEtYzgv2hm-oz-52" target="wYPSwRdBEtYzgv2hm-oz-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-52" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-50">
           <mxGeometry x="75" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wYPSwRdBEtYzgv2hm-oz-53" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Mendaftarkan Data Sekolah&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-50">
-          <mxGeometry x="30" y="90" width="120" height="30" as="geometry" />
+        <mxCell id="wYPSwRdBEtYzgv2hm-oz-99" value="&lt;font size=&quot;1&quot;&gt;Melihat dan Mengunduh Hasil Tes &lt;i&gt;RIASEC&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-50">
+          <mxGeometry x="30" y="780" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wYPSwRdBEtYzgv2hm-oz-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Mendaftarkan Akun&lt;br&gt;Admin Sekolah&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-50">
-          <mxGeometry x="30" y="140" width="120" height="30" as="geometry" />
+        <mxCell id="wYPSwRdBEtYzgv2hm-oz-102" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="wYPSwRdBEtYzgv2hm-oz-50">
+          <mxGeometry x="75" y="850" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9AuOl50o36BliXBfOoo-4" target="wYPSwRdBEtYzgv2hm-oz-38">
           <mxGeometry relative="1" as="geometry" />
@@ -202,6 +210,17 @@
         </mxCell>
         <mxCell id="wYPSwRdBEtYzgv2hm-oz-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYPSwRdBEtYzgv2hm-oz-79" target="wYPSwRdBEtYzgv2hm-oz-81">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wYPSwRdBEtYzgv2hm-oz-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wYPSwRdBEtYzgv2hm-oz-95" target="wYPSwRdBEtYzgv2hm-oz-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wYPSwRdBEtYzgv2hm-oz-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYPSwRdBEtYzgv2hm-oz-97" target="wYPSwRdBEtYzgv2hm-oz-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="5" />
+              <mxPoint x="780" y="5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
