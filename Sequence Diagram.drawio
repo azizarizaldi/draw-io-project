@@ -1,25 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.2">
   <diagram name="Page-1" id="i1Tg95vGhoL5kmaxeHPJ">
-    <mxGraphModel dx="948" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdgR9pWR-4hrQujfHFMB-42">
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdgR9pWR-4hrQujfHFMB-42" target="mdgR9pWR-4hrQujfHFMB-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="1620" as="sourcePoint" />
             <mxPoint x="1030.0402100840333" y="297.75747767421944" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdgR9pWR-4hrQujfHFMB-30">
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="mdgR9pWR-4hrQujfHFMB-30" target="mdgR9pWR-4hrQujfHFMB-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="1670" as="sourcePoint" />
             <mxPoint x="770.7702100840334" y="297.75747767421944" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-3" value="Data Daftar Sekolah" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="419.998445378151" y="163.13" width="142.27941176470588" height="118.07783800647358" as="geometry" />
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-3" value="Daftar Akun Admin" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="255" width="120" height="88.08" as="geometry" />
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdgR9pWR-4hrQujfHFMB-24">
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.554;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mdgR9pWR-4hrQujfHFMB-24" target="mdgR9pWR-4hrQujfHFMB-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="499" y="1140" as="sourcePoint" />
             <mxPoint x="499.3402100840334" y="297.75747767421944" as="targetPoint" />
@@ -28,8 +28,8 @@
         <mxCell id="mdgR9pWR-4hrQujfHFMB-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="493.05" y="400" width="12.65" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-6" value="db_school" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="975.5400000000001" y="163.13" width="110.03" height="110" as="geometry" />
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-6" value="db_users" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="983.3299999999999" y="254.92" width="94.46" height="88.16" as="geometry" />
         </mxCell>
         <mxCell id="mdgR9pWR-4hrQujfHFMB-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="764.96" y="490" width="12.65" height="130" as="geometry" />
@@ -69,21 +69,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mdgR9pWR-4hrQujfHFMB-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Administrator&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="163.1279889248517" width="39.42857142857143" height="86.33333333333333" as="geometry" />
+          <mxGeometry x="260" y="249.9979889248517" width="39.42857142857143" height="86.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Klik menu data Akun Sekolah&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Klik menu Daftar akun admin&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290" y="440" as="sourcePoint" />
             <mxPoint x="490" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="mdgR9pWR-4hrQujfHFMB-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="279" y="1680" as="sourcePoint" />
-            <mxPoint x="279.4073529411765" y="281.21" as="targetPoint" />
+            <mxPoint x="279" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Menampilkan Daftar Sekolah&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Menampilkan Daftar Akun&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0029" relative="1" as="geometry">
             <mxPoint x="493.05" y="640.4491284171108" as="sourcePoint" />
             <mxPoint x="280" y="640" as="targetPoint" />
@@ -93,8 +93,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-21" value="master sekolah" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="150" width="120" height="130" as="geometry" />
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-21" value="master akun admin" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="241.25" width="90" height="95.08" as="geometry" />
         </mxCell>
         <mxCell id="mdgR9pWR-4hrQujfHFMB-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="mdgR9pWR-4hrQujfHFMB-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,7 +111,7 @@
             <mxPoint x="499.3749999999998" y="1309.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Tambah data sekolah&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Tambah data akun&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290" y="760" as="sourcePoint" />
             <mxPoint x="490" y="760" as="targetPoint" />
@@ -215,10 +215,11 @@
         <mxCell id="mdgR9pWR-4hrQujfHFMB-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="493.05" y="1030" width="12.65" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;edit data sekolah&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;edit data akun&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290.00000000000006" y="1070" as="sourcePoint" />
             <mxPoint x="490.00000000000006" y="1070" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mdgR9pWR-4hrQujfHFMB-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdgR9pWR-4hrQujfHFMB-51" target="mdgR9pWR-4hrQujfHFMB-50">
@@ -307,10 +308,11 @@
         <mxCell id="mdgR9pWR-4hrQujfHFMB-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="493.04999999999995" y="1330" width="12.65" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="mdgR9pWR-4hrQujfHFMB-63" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Hapus data sekolah&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="mdgR9pWR-4hrQujfHFMB-63" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Hapus data akun&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290" y="1370" as="sourcePoint" />
             <mxPoint x="490" y="1370" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mdgR9pWR-4hrQujfHFMB-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdgR9pWR-4hrQujfHFMB-66" target="mdgR9pWR-4hrQujfHFMB-65">
